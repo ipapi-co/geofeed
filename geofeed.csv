@@ -1,0 +1,5 @@
+# This is a comment line and it will be ignored 
+# The entries below are reserved IPs (should not have a location)
+# They are used solely for the purpose of representing valid geofeed lines
+192.168.1.0/24, US, CA, San Francisco, 94103
+192.168.2.0/24, US, , San Francisco,
